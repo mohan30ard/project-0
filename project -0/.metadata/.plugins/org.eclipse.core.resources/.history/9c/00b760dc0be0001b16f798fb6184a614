@@ -1,0 +1,29 @@
+package com.bank.LoginPage;
+
+public class LoginPage {
+	private int userId;
+	private String password;
+	
+	
+	
+	public LoginPage() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public int getUserId() {
+		return UserId;
+	}
+
+	public void setUserId(int userId) {
+		UserId = userId;
+	}
+
+	public String getS() {
+		return s;
+	}
+
+	public void setS(String s) {
+		this.s = s;
+	}
+
+}

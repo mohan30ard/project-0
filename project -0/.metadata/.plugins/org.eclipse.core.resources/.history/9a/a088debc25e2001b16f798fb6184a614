@@ -1,0 +1,32 @@
+package com.bank.LoginPage;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Hashtable;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+class MainMenuTest {
+	
+	private static MainMenu menu;
+	@BeforeAll
+	public static void setData() {
+	Hashtable<Integer,String> map=new Hashtable<>();
+	map.put(28368987 , "password");
+	MainMenu.map=map;
+	}
+	@Test
+	void testuserPassword() {
+		int userId=28368987;
+		//MainMenu.map.put(28368987 , "password");
+		assertEquals("password", MainMenu.map.get(userId));	
+	}
+	@Test
+	void testuserID() {
+		int userId=28368987;
+		//MainMenu.map.put(28368987 , "password");
+		assertTrue(MainMenu.map.containsKey(userId));
+	}
+
+}

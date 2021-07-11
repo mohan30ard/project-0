@@ -1,0 +1,23 @@
+package com.bank.LoginPage;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Hashtable;
+
+import org.junit.jupiter.api.Test;
+
+class MainMenuTest {
+
+	@Test
+	void testuserId() {
+		//String password= "password";
+		int userId=28368987;
+		Hashtable<Integer,String> map=new Hashtable<>();
+		map.put(28368987, "password");
+		assertEquals("password", map.get(userId));
+		
+		
+		
+	}
+
+}

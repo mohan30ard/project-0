@@ -1,0 +1,59 @@
+package com.jdbcdemo;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class HelloJdbc {
+
+	public static void main(String[] args) {
+		
+	
+		Connection connection=null;
+		try {
+			//Step1- Load or Register Driver
+			Class.forName("org.postgresql.Driver");
+			System.out.println("Driver loaded successfully");
+			
+			//Step2 - Open Connection
+			String url="jdbc:postgresql://localhost:5432/postgres";
+			String user ="postgres";
+			String password ="Mohan.1999ms*";
+			connection=DriverManager.getConnection(url, user, password);
+			System.out.println("Connection established");
+			
+			//Step3 - Create Statement
+			Statement statement=connection.createStatement();
+			String sql="select productid,name,cost,rating from product_schema.product order by rating";
+			
+			//Step4 -Execute Query
+			ResultSet resultSet=statement.executeQuery(sql);
+			System.out.println("Query executed");
+			
+			//Step5 - Process Results
+			while(resultSet.next()) {
+				System.out.print("Product Id : "+resultSet.getInt("productid"));
+				System.out.print(" Product Name : "+resultSet.getString("name"));
+				System.out.print(" Product Rating : "+resultSet.getFloat("rating"));
+				System.out.println(" Product Cost : "+resultSet.getDouble("cost"));
+			}
+			System.out.println("Results Processed successfully");
+		} catch (ClassNotFoundException e) {
+			System.out.println(e);
+		} catch (SQLException e) {
+			System.out.println(e);
+		}finally {
+			
+			try {
+				//Step6 - Close connection
+				connection.close();
+				System.out.println("Connection closed");
+			} catch (SQLException e) {
+				System.out.println(e);
+			}
+		}
+	}
+
+}
