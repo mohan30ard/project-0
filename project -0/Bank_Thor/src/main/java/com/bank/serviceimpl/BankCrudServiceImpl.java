@@ -19,14 +19,17 @@ public class BankCrudServiceImpl implements BankCrudService{
 			}else {
 				throw new BankException("not registered");
 			}
-		
-		
 		return customer;
 	}
 	@Override
-	public Account createAccount(Customer customer) throws BankException {
-		// TODO Auto-generated method stub
-		return null;
+	public Account createAccount(Account account) throws BankException {
+			
+		if(account!=null) {
+			account=bankDAO.createAccount(account);
+		}else {
+			throw new BankException("Account Not Opened");
+		}
+		return account;
 	}
 	@Override
 	public List<Customer> getAllCustomers() throws BankException {

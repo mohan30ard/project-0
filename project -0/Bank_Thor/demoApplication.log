@@ -753,3 +753,220 @@ Product Menu
 [main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
 [main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
 [main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 23:51:25 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 23:51:32 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 23:51:36 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 23:51:41 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-14 23:51:46 INFO  com.bank.main.Bank_Thor_Main  - Hello 28368987
+[main] 2021-07-14 23:51:46 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-14 23:51:46 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 23:51:46 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 23:51:46 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 23:51:46 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 23:51:53 INFO  com.bank.main.Bank_Thor_Main  - Enter your Name => 
+[main] 2021-07-14 23:51:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your PanCard Details => 
+[main] 2021-07-14 23:52:05 INFO  com.bank.main.Bank_Thor_Main  - Enter your AccountNumber Details => 
+[main] 2021-07-14 23:52:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Opening Balance Amount => 
+[main] 2021-07-14 23:52:25 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: No value specified for parameter 5.
+[main] 2021-07-14 23:52:25 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-14 23:52:25 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 23:52:25 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 23:52:25 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 23:52:25 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 23:53:25 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 23:53:28 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 23:53:30 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 23:53:35 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-14 23:53:41 INFO  com.bank.main.Bank_Thor_Main  - Hello 28368987
+[main] 2021-07-14 23:53:41 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-14 23:53:41 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 23:53:41 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 23:53:41 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 23:53:41 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 23:53:50 INFO  com.bank.main.Bank_Thor_Main  - Enter your Name => 
+[main] 2021-07-14 23:53:55 INFO  com.bank.main.Bank_Thor_Main  - Enter your PanCard Details => 
+[main] 2021-07-14 23:54:04 INFO  com.bank.main.Bank_Thor_Main  - Enter your AccountNumber Details => 
+[main] 2021-07-14 23:54:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Opening Balance Amount => 
+[main] 2021-07-14 23:54:21 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: null value in column "userid" violates not-null constraint
+  Detail: Failing row contains (37024279152, 15000, BGEPT4326F, null, mohan, null).
+[main] 2021-07-14 23:54:21 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-14 23:54:21 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 23:54:21 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 23:54:21 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 23:54:21 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 23:56:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 23:56:18 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 23:56:19 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 23:56:37 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-14 23:56:38 INFO  com.bank.main.Bank_Thor_Main  - Hello 8977
+[main] 2021-07-14 23:56:38 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-14 23:56:38 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 23:56:38 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 23:56:38 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 23:56:38 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 23:56:42 INFO  com.bank.main.Bank_Thor_Main  - Enter your Name => 
+[main] 2021-07-14 23:56:45 INFO  com.bank.main.Bank_Thor_Main  - Enter your PanCard Details => 
+[main] 2021-07-14 23:56:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your AccountNumber Details => 
+[main] 2021-07-14 23:57:11 INFO  com.bank.main.Bank_Thor_Main  - Enter your Opening Balance Amount => 
+[main] 2021-07-14 23:57:15 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 23:57:28 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: null value in column "userid" violates not-null constraint
+  Detail: Failing row contains (123456789, 50000, BGEPT4326F, null, mohan, null).
+[main] 2021-07-14 23:57:28 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-14 23:57:28 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 23:57:28 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 23:57:28 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 23:57:28 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-15 00:05:12 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-15 00:05:22 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-15 00:05:30 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-15 00:05:34 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-15 00:05:41 INFO  com.bank.main.Bank_Thor_Main  - Hello 28368987
+[main] 2021-07-15 00:05:41 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-15 00:05:41 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-15 00:05:41 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-15 00:05:41 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-15 00:05:41 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-15 00:05:44 INFO  com.bank.main.Bank_Thor_Main  - Enter your Name => 
+[main] 2021-07-15 00:05:47 INFO  com.bank.main.Bank_Thor_Main  - Enter your PanCard Details => 
+[main] 2021-07-15 00:05:55 INFO  com.bank.main.Bank_Thor_Main  - Enter your AccountNumber Details => 
+[main] 2021-07-15 00:06:01 INFO  com.bank.main.Bank_Thor_Main  - Enter your Opening Balance Amount => 
+[main] 2021-07-15 00:06:04 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-15 00:06:11 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: null value in column "userid" violates not-null constraint
+  Detail: Failing row contains (370, 500, BGEPT4326F, null, mohan).
+[main] 2021-07-15 00:06:11 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-15 00:06:11 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-15 00:06:11 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-15 00:06:11 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-15 00:06:11 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-15 00:07:37 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-15 00:07:41 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-15 00:07:44 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-15 00:07:49 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-15 00:07:52 INFO  com.bank.main.Bank_Thor_Main  - Hello 8977
+[main] 2021-07-15 00:07:52 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-15 00:07:52 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-15 00:07:52 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-15 00:07:52 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-15 00:07:52 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-15 00:07:55 INFO  com.bank.main.Bank_Thor_Main  - Enter your Name => 
+[main] 2021-07-15 00:07:57 INFO  com.bank.main.Bank_Thor_Main  - Enter your PanCard Details => 
+[main] 2021-07-15 00:08:05 INFO  com.bank.main.Bank_Thor_Main  - Enter your AccountNumber Details => 
+[main] 2021-07-15 00:08:08 INFO  com.bank.main.Bank_Thor_Main  - Enter your Opening Balance Amount => 
+[main] 2021-07-15 00:08:10 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-15 00:08:17 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: null value in column "userid" violates not-null constraint
+  Detail: Failing row contains (123, 123, BGEPT4326F, null, 11).
+[main] 2021-07-15 00:08:17 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-15 00:08:17 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-15 00:08:17 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-15 00:08:17 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-15 00:08:17 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout

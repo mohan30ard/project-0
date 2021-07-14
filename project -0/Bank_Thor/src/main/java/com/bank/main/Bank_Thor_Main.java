@@ -7,6 +7,7 @@ import org.apache.log4j.Logger;
 import com.bank.dao.BankDAO;
 import com.bank.daoimpl.BankDAOImpl;
 import com.bank.exception.BankException;
+import com.bank.model.Account;
 import com.bank.model.Customer;
 import com.bank.service.BankCrudService;
 import com.bank.service.BankSearchService;
@@ -117,9 +118,36 @@ public class Bank_Thor_Main {
 									}
 									switch (ch1) {
 									case 1:
-										log.info("Thank you for using our Banking Services. " + "Goodbye....!");
-										log.info("Successfully logged out of app");
-										System.exit(0);
+										BankCrudService bankCrudService1=new BankCrudServiceImpl();
+										Account account =null;
+										log.info("Enter your Name => ");
+										String name = sc.nextLine();
+										log.info("Enter your PanCard Details => ");
+										String panCard = sc.nextLine();
+										log.info("Enter your AccountNumber Details => ");
+										double accountNumber = Double.parseDouble(sc.nextLine());
+										log.info("Enter your Opening Balance Amount => ");
+										double openingBalance = Double.parseDouble(sc.nextLine());
+										log.info("Enter your user Id  => ");
+										String userId1 = sc.nextLine();
+										if(panCard.matches("[A-Z]{5}[0-9]{4}[A-Z]{1}")) {
+											 account=new Account(userId1, name, accountNumber, panCard, openingBalance);
+										}else{
+											log.warn("Invalid PanCard Details");
+										}
+										try {
+											account=bankCrudService1.createAccount(account);
+											if(account!=null) {
+												log.info("Successfully registered to Thor Bank");
+												log.info(account);
+											}
+										} catch (BankException e) {
+											
+										}
+										
+										
+										
+										break;
 									case 2:
 
 										break;
@@ -130,6 +158,8 @@ public class Bank_Thor_Main {
 									case 5:
 										break;
 									case 6:
+										log.info("Thank you for using our Banking Services.  Goodbye....!");
+										log.info("Successfully logged out of Thor Bank");
 										break;
 									default :
 										log.info("entered option is invalid");

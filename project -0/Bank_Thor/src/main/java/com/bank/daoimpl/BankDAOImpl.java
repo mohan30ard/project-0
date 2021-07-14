@@ -46,9 +46,25 @@ public class BankDAOImpl implements BankDAO {
 	}
 
 	@Override
-	public Account createAccount(Customer customer) throws BankException {
-		// TODO Auto-generated method stub
-		return null;
+	public Account createAccount(Account account) throws BankException {
+		try (Connection connection = PostgresConnection.getConnection()) {
+			String sql="insert into bank_schema.accountdetails(accountnumber,balance,pancard,userid,name) values(?,?,?,?,?)";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setDouble(1, account.getAccountNumber());
+			preparedStatement.setDouble(2, account.getOpeningBalance());
+			preparedStatement.setString(3, account.getPanCard());
+			preparedStatement.setString(4, account.getUserId1());
+			preparedStatement.setString(5, account.getName());
+			int c = preparedStatement.executeUpdate();
+			
+			if (c == 1 ) {
+				log.info("Account Opened Successfully");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			log.warn(e);
+			throw new BankException("Internal error occured... Kindly conatct SYSADMIN........");
+		}
+		return account;
 	}
 
 	@Override
@@ -118,7 +134,7 @@ public class BankDAOImpl implements BankDAO {
 
 	@Override
 	public double getBalanceByAccountNumber(long accountNumber) throws BankException {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 

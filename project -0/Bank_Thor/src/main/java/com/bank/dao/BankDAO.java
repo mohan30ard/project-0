@@ -9,7 +9,7 @@ import com.bank.model.Customer;
 public interface BankDAO {
 
 	public Customer registerAccount(Customer customer) throws BankException;
-	public Account createAccount(Customer customer) throws BankException;
+	public Account createAccount(Account account) throws BankException;
 	public List<Customer> getAllCustomers() throws BankException;
 	public List<Account> getAllAccounts() throws BankException;
 	public void deleteAccount(long accountNumber) throws BankException;
