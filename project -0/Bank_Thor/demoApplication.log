@@ -1,0 +1,755 @@
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:13:59 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:14:12 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - Going to MainMenu.........
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:14:17 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:14:37 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:14:44 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - Going to MainMenu.........
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:14:47 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:14:48 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:14:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:14:51 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:14:52 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - For input string: "fd"
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:14:53 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:34:24 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:34:35 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:34:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:34:54 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:35:12 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:37:07 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:37:17 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:37:20 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:37:22 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:37:32 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - Not registed
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:37:35 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:39:22 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:39:24 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:39:26 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:39:27 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:39:32 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - Not registed
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:39:35 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:42:36 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:42:39 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:42:41 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:42:42 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:42:45 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - Not registed
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:42:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:46:11 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:46:15 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:46:17 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:46:18 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:46:19 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - Not registed
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:46:21 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:47:00 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:47:24 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:47:28 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:47:28 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:47:31 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:47:34 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - Not registed
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:47:39 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:48:10 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:48:12 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:48:13 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:48:14 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:48:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:48:17 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:48:17 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:54:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:54:19 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:54:20 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:54:21 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:54:22 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:54:23 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:54:23 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:56:51 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 22:56:57 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 22:56:58 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 22:56:58 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 22:57:00 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 22:57:01 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 22:57:01 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:06:01 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:06:38 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:06:43 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 23:06:46 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 23:06:46 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 23:06:48 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 23:06:49 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:06:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:13:53 INFO  com.bank.main.Bank_Thor_Main  - Thanks for using our App.. See you soon. :)
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:22:08 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:22:12 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 23:22:13 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 23:22:14 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 23:22:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 23:22:17 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:22:17 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:23:20 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:23:30 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 23:23:31 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 23:23:31 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 23:23:32 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 23:23:33 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:23:33 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:25:32 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:25:36 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 23:25:36 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 23:25:37 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 23:25:38 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:25:38 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:27:53 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:27:59 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 23:28:00 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 23:28:00 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 23:28:01 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 23:28:03 INFO  com.bank.daoimpl.BankDAOImpl  - java.lang.ClassNotFoundException: org.postgresql.Driver
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:28:03 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:29:44 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-13 23:29:50 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-13 23:29:51 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-13 23:29:52 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-13 23:29:53 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - Successfully registered to Thor Bank
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - Customer [firstName=1, lastName=1, emailId=1, mobileNumber=1, userId=0, password=1]
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-13 23:29:54 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 14:39:42 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 14:39:45 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 14:39:46 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 14:39:46 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 14:39:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - mobile Number Should contain only 10 digits 
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 14:39:52 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 14:40:01 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 14:40:02 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 14:40:02 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 14:40:03 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - mobile Number Should contain only 10 digits 
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 14:40:04 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 14:40:10 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 14:40:16 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 14:40:19 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 14:40:37 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - Successfully registered to Thor Bank
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - Customer [firstName=jay, lastName=chandra, emailId=jsai@gmail.com, mobileNumber=9966122860, userId=null, password=12345]
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 14:40:43 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:47:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:48:01 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 15:48:03 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 15:48:05 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 15:48:12 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 15:48:21 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 15:48:29 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: relation "customer_schema.customer" does not exist
+  Position: 13
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:48:29 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:48:54 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 15:48:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 15:48:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 15:48:59 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 15:49:06 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 15:49:11 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: relation "customer_schema.customer" does not exist
+  Position: 13
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:49:11 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:54:31 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:54:34 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 15:54:35 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 15:54:36 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 15:54:38 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 15:54:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 15:54:56 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: insert or update on table "customer" violates foreign key constraint "customer_fk"
+  Detail: Key (userid)=(8799) is not present in table "logindetails".
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:54:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:55:47 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:55:50 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 15:55:51 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 15:55:52 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 15:55:54 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 15:56:03 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 15:56:08 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: insert or update on table "customer" violates foreign key constraint "customer_fk"
+  Detail: Key (userid)=(8977) is not present in table "logindetails".
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:56:08 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:57:21 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:57:22 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 15:57:23 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 15:57:23 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 15:57:24 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 15:57:31 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 15:57:36 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: insert or update on table "customer" violates foreign key constraint "customer_fk"
+  Detail: Key (userid)=(8977) is not present in table "logindetails".
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - Internal error occured... Kindly conatct SYSADMIN........
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:57:36 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:58:52 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 15:58:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your First Name => 
+[main] 2021-07-14 15:58:56 INFO  com.bank.main.Bank_Thor_Main  - Enter your Last Name => 
+[main] 2021-07-14 15:58:57 INFO  com.bank.main.Bank_Thor_Main  - Enter your Email Id => 
+[main] 2021-07-14 15:58:58 INFO  com.bank.main.Bank_Thor_Main  - Enter your Mobile Number => 
+[main] 2021-07-14 15:59:03 INFO  com.bank.main.Bank_Thor_Main  - Enter your user Id  => 
+[main] 2021-07-14 15:59:06 INFO  com.bank.daoimpl.BankDAOImpl  - Registration Successful
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - Successfully registered to Thor Bank
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - Customer [firstName=1, lastName=1, emailId=1, mobileNumber=9963286630, userId=8977, password=1]
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 15:59:06 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 17:33:49 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 17:33:53 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 17:33:55 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 17:36:48 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 17:36:50 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 17:36:51 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 17:36:56 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: The column name userId was not found in this ResultSet.
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 17:37:45 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 17:37:48 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 17:37:51 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 17:37:55 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-14 17:38:02 INFO  com.bank.main.Bank_Thor_Main  - Hello 28368987
+[main] 2021-07-14 17:38:02 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-14 17:38:02 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 17:38:02 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 17:38:02 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 17:38:02 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transferpress 3 to Withdrawpress 4 to Depositpress 5 to view statementspress 6 to Logout
+[main] 2021-07-14 17:41:42 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account28368987
+[main] 2021-07-14 17:41:42 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 17:41:42 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 17:41:42 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 17:41:42 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transferpress 3 to Withdrawpress 4 to Depositpress 5 to view statementspress 6 to Logout
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 17:42:24 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 17:42:26 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 17:42:28 INFO  com.bank.main.Bank_Thor_Main  - Enter UserId => 
+[main] 2021-07-14 17:42:49 INFO  com.bank.main.Bank_Thor_Main  - Enter Password => 
+[main] 2021-07-14 17:42:54 INFO  com.bank.main.Bank_Thor_Main  - Hello 8977
+[main] 2021-07-14 17:42:54 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-14 17:42:54 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 17:42:54 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 17:42:54 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 17:42:54 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 17:43:04 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-14 17:43:04 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 17:43:04 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 17:43:04 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 17:43:04 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 17:43:20 INFO  com.bank.main.Bank_Thor_Main  - customer logged into account8977
+[main] 2021-07-14 17:43:20 INFO  com.bank.main.Bank_Thor_Main  - Welcome to Thor Bank
+[main] 2021-07-14 17:43:20 INFO  com.bank.main.Bank_Thor_Main  - You have successfully logged in
+[main] 2021-07-14 17:43:20 INFO  com.bank.main.Bank_Thor_Main  - Select the operation you want perform
+[main] 2021-07-14 17:43:20 INFO  com.bank.main.Bank_Thor_Main  - press 1 to open New Account
+press 2 to Transfer
+press 3 to Withdraw
+press 4 to Deposit
+press 5 to view statements
+press 6 to Logout
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 17:46:39 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4
+[main] 2021-07-14 17:46:43 INFO  com.bank.main.Bank_Thor_Main  - Welcome Login Portal
+press 1 for Customer Login
+press 2 for Employee Login
+press 3 for MainMenu
+press 4 to exit Application
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - Going to MainMenu.........
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - Welcome to ThorBankingApp V1.0
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - ==================================
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 
+Product Menu
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 1)Create Account
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 2)Login into your Account
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 3)Delete Account
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - 4)EXIT
+[main] 2021-07-14 17:46:46 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-4

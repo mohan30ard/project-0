@@ -6,7 +6,6 @@ public class LoginPage {
 	
 	private int userId;
 	private String password;
-	//private static Logger log=Logger.getLogger(LoginPage.class);
 	public LoginPage() {
 		// TODO Auto-generated constructor stub
 	}
