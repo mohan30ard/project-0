@@ -44,12 +44,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.app"/>
 			<item value="com.bank.mohan"/>
 		</list>
 		<list key="name">
+			<item value="Bank_Thor"/>
 			<item value="BankMohan"/>
 		</list>
 		<list key="artifactId">
+			<item value="Bank_Thor"/>
 			<item value="BankMohan"/>
 		</list>
 		<list key="projectNameTemplate">

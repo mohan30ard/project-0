@@ -5,9 +5,25 @@
 <fullyQualifiedTypeName name="com.bank.LoginPage.LoginMain"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Hashtable"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
 <fullyQualifiedTypeName name="com.bank.customer.CustomerDetails"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.bank.dbutil.PostgresConnection"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.bank.service.BankCrudService"/>
+<fullyQualifiedTypeName name="com.bank.serviceimpl.BankCrudServiceImpl"/>
+<fullyQualifiedTypeName name="com.bank.model.Customer"/>
+<fullyQualifiedTypeName name="com.bank.exception.BankException"/>
+<fullyQualifiedTypeName name="com.bank.daoimpl.BankDAOImpl"/>
+<fullyQualifiedTypeName name="com.bank.dao.BankDAO"/>
+<fullyQualifiedTypeName name="com.bank.service.BankSearchService"/>
+<fullyQualifiedTypeName name="com.bank.serviceimpl.BankSearchServiceImpl"/>
+<fullyQualifiedTypeName name="com.bank.model.Account"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.bank.serviceimpl.BankCrudServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.186 s <<< FAILURE! - in com.bank.serviceimpl.BankCrudServiceImplTest
+testTransferAmount  Time elapsed: 0.014 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.bank.serviceimpl.BankCrudServiceImplTest.testTransferAmount(BankCrudServiceImplTest.java:57)
+
+testDepositAmount  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.bank.serviceimpl.BankCrudServiceImplTest.testDepositAmount(BankCrudServiceImplTest.java:47)
+
+testWithdrawAmount  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.bank.serviceimpl.BankCrudServiceImplTest.testWithdrawAmount(BankCrudServiceImplTest.java:52)
+

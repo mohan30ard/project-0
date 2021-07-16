@@ -2,30 +2,45 @@ package com.bank.model;
 
 public class Account extends Customer{
 	private String name;
-	private double accountNumber;
+	private long accountNumber;
 	private String panCard;
 	private double amount;
 	private double openingBalance;
 	private double closingBalance;
 	private boolean status;
 	private String userId1;
+
 	
 	public Account() {
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stubString userId1,
 	}
 	
-	public Account(String userId1,String name, double accountNumber, String panCard, double openingBalance) {
+	
+	
+	public Account(String userId1,String name, String panCard, double openingBalance) {
 		this.userId1=userId1;
 		this.name = name;
-		this.accountNumber = accountNumber;
+		//this.accountNumber = accountNumber;
 		this.panCard = panCard;
 		this.openingBalance = openingBalance;
 		
 	}
+	
 
 	public String getUserId1() {
 		return userId1;
 	}
+
+	public Account(String name, long accountNumber, String panCard, double openingBalance, String userId1) {
+		super();
+		this.name = name;
+		this.accountNumber = accountNumber;
+		this.panCard = panCard;
+		this.openingBalance = openingBalance;
+		this.userId1 = userId1;
+	}
+
+
 
 	public void setUserId1(String userId1) {
 		this.userId1 = userId1;
@@ -39,11 +54,11 @@ public class Account extends Customer{
 		this.name = name;
 	}
 
-	public double getAccountNumber() {
+	public long getAccountNumber() {
 		return accountNumber;
 	}
 
-	public void setAccountNumber(double accountNumber) {
+	public void setAccountNumber(long accountNumber) {
 		this.accountNumber = accountNumber;
 	}
 
@@ -89,20 +104,25 @@ public class Account extends Customer{
 
 	
 
+//	@Override
+//	public String toString() {
+//		return "Account [name=" + name + ", accountNumber=" + accountNumber + ", panCard=" + panCard + ", amount="
+//				+ amount + ", openingBalance=" + openingBalance + ", closingBalance=" + closingBalance + ", status="
+//				+ status + ", userId1=" + userId1 + "]";
+//	}
+	
 	@Override
 	public String toString() {
-		return "Account [name=" + name + ", accountNumber=" + accountNumber + ", panCard=" + panCard + ", amount="
-				+ amount + ", openingBalance=" + openingBalance + ", closingBalance=" + closingBalance + ", status="
-				+ status + ", userId1=" + userId1 + "]";
+		return "Account [name=" + name + ", accountNumber=" + accountNumber + ", panCard=" + panCard + ", openingBalance=" + openingBalance + ", userId1=" + userId1 + "]";
 	}
+	
 
 	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = super.hashCode();
+		result = prime * result + (int) (accountNumber ^ (accountNumber >>> 32));
 		long temp;
-		temp = Double.doubleToLongBits(accountNumber);
-		result = prime * result + (int) (temp ^ (temp >>> 32));
 		temp = Double.doubleToLongBits(amount);
 		result = prime * result + (int) (temp ^ (temp >>> 32));
 		temp = Double.doubleToLongBits(closingBalance);
@@ -125,7 +145,7 @@ public class Account extends Customer{
 		if (getClass() != obj.getClass())
 			return false;
 		Account other = (Account) obj;
-		if (Double.doubleToLongBits(accountNumber) != Double.doubleToLongBits(other.accountNumber))
+		if (accountNumber != other.accountNumber)
 			return false;
 		if (Double.doubleToLongBits(amount) != Double.doubleToLongBits(other.amount))
 			return false;
@@ -153,6 +173,7 @@ public class Account extends Customer{
 		return true;
 	}
 
+	
 	
 
 	

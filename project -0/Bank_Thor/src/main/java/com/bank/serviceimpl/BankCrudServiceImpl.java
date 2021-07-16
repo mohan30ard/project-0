@@ -1,5 +1,6 @@
 package com.bank.serviceimpl;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.bank.dao.BankDAO;
@@ -7,6 +8,7 @@ import com.bank.daoimpl.BankDAOImpl;
 import com.bank.exception.BankException;
 import com.bank.model.Account;
 import com.bank.model.Customer;
+import com.bank.model.Transaction;
 import com.bank.service.BankCrudService;
 
 public class BankCrudServiceImpl implements BankCrudService{
@@ -33,33 +35,53 @@ public class BankCrudServiceImpl implements BankCrudService{
 	}
 	@Override
 	public List<Customer> getAllCustomers() throws BankException {
-		// TODO Auto-generated method stub
-		return null;
+		List<Customer> listCustomer=new ArrayList<>();
+       try {
+			listCustomer=bankDAO.getAllCustomers();	
+		}
+       catch(BankException b) {
+			throw new BankException("No Data EXISTS as of Now");
+		}
+		
+		return listCustomer;
 	}
+	
 	@Override
 	public List<Account> getAllAccounts() throws BankException {
-		// TODO Auto-generated method stub
-		return null;
+		List<Account> listAccount=new ArrayList<>();
+		try {
+			listAccount=bankDAO.getAllAccounts();	
+		}
+       catch(BankException b) {
+			throw new BankException("No Data EXISTS as of Now");
+		}
+		return listAccount;
 	}
 	@Override
-	public void deleteAccount(long accountNumber) throws BankException {
-		// TODO Auto-generated method stub
+	public Transaction depositAmount(Transaction transaction) throws BankException {
+		try {
+			transaction=bankDAO.depositAmount(transaction);
+		}
+       catch(BankException b) {
+			throw new BankException("NO TRANSACTION PERFORMED");
+		}
 		
+		return transaction;
 	}
 	@Override
-	public Account depositAmount(double amount) throws BankException {
-		// TODO Auto-generated method stub
-		return null;
+	public Transaction withdrawAmount(Transaction transaction) throws BankException {
+		try {
+			transaction=bankDAO.withdrawAmount(transaction);	
+		}
+       catch(BankException b) {
+			throw new BankException("NO TRANSACTION PERFORMED");
+		}
+		return transaction;
 	}
 	@Override
-	public Account withdrawAmount(double amount) throws BankException {
-		// TODO Auto-generated method stub
-		return null;
-	}
-	@Override
-	public Account transferAmount(double amount) throws BankException {
-		// TODO Auto-generated method stub
-		return null;
+	public Transaction transferAmount(Transaction transaction) throws BankException {
+		
+		return transaction;
 	}
 	
 
