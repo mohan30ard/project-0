@@ -16,7 +16,10 @@ public class BankCrudServiceImpl implements BankCrudService{
 	@Override
 	public Customer registerAccount(Customer customer) throws BankException {
 		
-			if(customer!=null) {
+			if(customer!=null && customer.getFirstName()!=null 
+					&& customer.getLastName()!=null && customer.getEmailId()!=null 
+					&& customer.getMobileNumber()!=null && customer.getUserId()!=null
+						&& customer.getPassword()!=null) {
 			customer =bankDAO.registerAccount(customer);
 			}else {
 				throw new BankException("not registered");

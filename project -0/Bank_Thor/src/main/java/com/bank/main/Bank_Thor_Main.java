@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
+import com.app.validations.Validations;
 import com.bank.exception.BankException;
 import com.bank.model.Account;
 import com.bank.model.Customer;
@@ -40,25 +41,39 @@ public class Bank_Thor_Main {
 			case 1:
 				BankCrudService bankCrudService = new BankCrudServiceImpl();
 				try {
-					Customer customer = new Customer();
-					String userId;
+					boolean valid =false;
+					String firstName,lastName,emailId,mobileNumber,userId,password;
+					do {
 					log.info("Enter your First Name => ");
-					String firstName = sc.nextLine();
+					 firstName = sc.nextLine();
+					valid= Validations.IsValidFirstName(firstName);
+					}while(!valid);
+					do {
 					log.info("Enter your Last Name => ");
-					String lastName = sc.nextLine();
+					lastName = sc.nextLine();
+					valid =Validations.IsValidLastName(lastName);
+					}while(!valid);
+					do {
 					log.info("Enter your Email Id => ");
-					String emailId = sc.nextLine();
+					emailId = sc.nextLine();
+					valid=Validations.IsValidEmailId(emailId);
+					}while(!valid);
+					do {
 					log.info("Enter your Password => ");
-					String password = sc.nextLine();
+					password = sc.nextLine();
+					valid=Validations.IsValidPassword(password);
+					}while(!valid);
+					do {
 					log.info("Enter your Mobile Number => ");
-					String mobileNumber = sc.nextLine();
+					mobileNumber = sc.nextLine();
+					valid=Validations.IsValidMobileNumber(mobileNumber);
+					}while(!valid);
+					do {
 					log.info("Enter your user Id  => ");
 					userId = sc.nextLine();
-					if (mobileNumber.matches("[0-9]{10}")) {
-						customer = new Customer(firstName, lastName, emailId, mobileNumber, userId, password);
-					} else {
-						throw new BankException("mobile Number Should contain only 10 digits ");
-					}
+					valid=Validations.IsValidUserId(userId);
+					}while(!valid);
+					Customer customer = new Customer(firstName, lastName, emailId, mobileNumber, userId, password);
 					customer = bankCrudService.registerAccount(customer);
 					if (customer != null) {
 						log.info("Successfully registered to Thor Bank");
@@ -66,8 +81,6 @@ public class Bank_Thor_Main {
 						log.info(customer);
 						log.info("\n");
 					}
-				} catch (NumberFormatException e) {
-					log.warn(e.getMessage());
 				} catch (BankException e) {
 					log.warn(e.getMessage());
 				}
@@ -328,18 +341,19 @@ public class Bank_Thor_Main {
 						empId = sc.nextLine();
 						try {
 							employee = bankSearchService3.getPasswordByempId(empId);
-
-							if (employee.getEmployeePassword() != null) {
+//
+							if (employee.getEmployeePassword() != null ) {
+								System.out.println(employee.getEmployeePassword());
 								log.info("Enter Password => ");
-								String password = sc.nextLine();
-								if (employee.getEmployeePassword().equals(password)) {
+								String password1 = sc.nextLine();
+								if (employee.getEmployeePassword().equals(password1)) {
 									log.info("\n");
 									log.info("Hello " + empId);
 									log.info("Welcome to Thor Bank");
 									log.info("You have successfully logged in ");
 									log.info("entered employee login portal");
-								}
-							}
+								
+							
 							int ch2 = 0;
 							do {
 								log.info("1)To View All the Accounts");
@@ -398,10 +412,21 @@ public class Bank_Thor_Main {
 									break;
 								}
 							} while (ch2 != 4);
+								}else {
+									log.warn("invalid userid or password entered");
+									break;
+								}
+								
+							
+							}else {
+									log.warn("invalid userid or password entered");
+									break;
+								}
+							
 						} catch (BankException e) {
 
 							log.warn(e.getMessage());
-							;
+							
 						}
 						break;
 					case 3:

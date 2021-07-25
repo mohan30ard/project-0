@@ -20,10 +20,18 @@
 <fullyQualifiedTypeName name="com.bank.service.BankCrudService"/>
 <fullyQualifiedTypeName name="com.bank.serviceimpl.BankCrudServiceImpl"/>
 <fullyQualifiedTypeName name="com.bank.model.Customer"/>
-<fullyQualifiedTypeName name="com.bank.exception.BankException"/>
 <fullyQualifiedTypeName name="com.bank.daoimpl.BankDAOImpl"/>
 <fullyQualifiedTypeName name="com.bank.dao.BankDAO"/>
 <fullyQualifiedTypeName name="com.bank.service.BankSearchService"/>
 <fullyQualifiedTypeName name="com.bank.serviceimpl.BankSearchServiceImpl"/>
 <fullyQualifiedTypeName name="com.bank.model.Account"/>
+<fullyQualifiedTypeName name="com.bank.exception.BankException"/>
+<fullyQualifiedTypeName name="com.app.validations.Validations"/>
+<fullyQualifiedTypeName name="com.emp.dao.Impl.EmployeeDAOImpl"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="com.emp.model.Employee"/>
+<fullyQualifiedTypeName name="com.emp.exception.BusinessException"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="com.emp.service.impl.EmployeeServiceImpl"/>
+<fullyQualifiedTypeName name="com.emp.service.EmployeeService"/>
 </qualifiedTypeNameHistroy>

@@ -1,9 +1,0 @@
-package com.bank.customer;
-
-public class CustomerDetails {
-	private String name;
-	private long mobileNumber;
-	private String panNumber;
-	private Address permanentAddress;
-
-}

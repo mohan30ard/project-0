@@ -48,10 +48,12 @@
 			<item value="com.bank.mohan"/>
 		</list>
 		<list key="name">
+			<item value="employee_restful_api"/>
 			<item value="Bank_Thor"/>
 			<item value="BankMohan"/>
 		</list>
 		<list key="artifactId">
+			<item value="employee_restful_api"/>
 			<item value="Bank_Thor"/>
 			<item value="BankMohan"/>
 		</list>
