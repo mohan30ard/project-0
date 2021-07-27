@@ -8,6 +8,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 import org.apache.log4j.Logger;
 
@@ -57,16 +58,9 @@ public class BankCrudController extends HttpServlet {
 		Customer customer=gson.fromJson(request.getReader(), Customer.class);
 		RequestDispatcher requestDispatcher1=null;
 		try {
-			//System.out.println(customer);
 			customer=bankCrudService.registerAccount(customer);
-			//if(customer.isB()) {
-			System.out.println("hii");
-				requestDispatcher1=request.getRequestDispatcher("rsuccess");
-				System.out.println("hiii2");
-				requestDispatcher1.forward(request, response);
-				System.out.println("hii3");
-				//response.sendRedirect("http://localhost:8080/bank_thor_v2");
-			//}
+			HttpSession session=request.getSession();
+				response.sendRedirect("success");
 			log.info(customer);
 		} catch (BankException e) {
 			System.out.println(e);
@@ -76,10 +70,9 @@ public class BankCrudController extends HttpServlet {
 			out.print("<center><span style='color:red;'>"+e.getMessage()+"</span></center>");
 		}
 		
-		
-		//response.setContentType("application/json;charset=UTF-8");
-//		PrintWriter out=response.getWriter();
-//		out.print(gson.toJson(customer));
+		response.setContentType("application/json;charset=UTF-8");
+		PrintWriter out=response.getWriter();
+		out.print(gson.toJson(customer));
 	}
 
 	/**

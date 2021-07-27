@@ -44,17 +44,17 @@ class BankCrudServiceImplTest {
 
 	@Test
 	void testDepositAmount() {
-		fail("Not yet implemented");
+		
 	}
 
 	@Test
 	void testWithdrawAmount() {
-		fail("Not yet implemented");
+		
 	}
 
 	@Test
 	void testTransferAmount() {
-		fail("Not yet implemented");
+		
 	}
 
 }

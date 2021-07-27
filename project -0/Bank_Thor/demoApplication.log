@@ -1440,3 +1440,9 @@ Product Menu
 [main] 2021-07-20 23:35:36 INFO  com.bank.main.Bank_Thor_Main  - Enter your Choice 1-3
 [main] 2021-07-20 23:36:02 INFO  com.bank.main.Bank_Thor_Main  - Thank you for using Thor Banking Services.  Goodbye....!
 [main] 2021-07-20 23:36:02 INFO  com.bank.main.Bank_Thor_Main  - May Thor be With You :)
+[main] 2021-07-27 15:24:08 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "logindetails_pk"
+  Detail: Key (userid)=(aapt) already exists.
+[main] 2021-07-27 15:28:26 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "logindetails_pk"
+  Detail: Key (userid)=(aapt) already exists.
+[main] 2021-07-27 16:07:00 WARN  com.bank.daoimpl.BankDAOImpl  - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "logindetails_pk"
+  Detail: Key (userid)=(aapt) already exists.
