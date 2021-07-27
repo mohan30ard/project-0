@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Enter your description here" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <title>signup</title>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <div class="border p-4">
+            <h4>Welcome To SignUp Page</h4>
+            <form method="post" action="bank" id="form">
+                <div class="form-group w-25">
+                    <label>Enter Your FirstName</label>
+                    <input class="form-control " type="text" id="fname" placeholder="Enter FirstName ">
+                    <label>Enter Your LastName</label>
+                    <input class="form-control" type="text" id="lname" placeholder="Enter LastName ">
+                    <label>Enter Your EmailId</label>
+                    <input class="form-control" type="email" id="emailid" placeholder="Enter EmailId ">
+                    <label>Enter Your Mobile Number </label>
+                    <input class="form-control" type="number" id="mobilenumber" placeholder="Enter MobileNumber ">
+                    <label>Create UserId</label>
+                    <input class="form-control" type="text" id="userid" placeholder="Enter UserId">
+                    <label>Create Password</label>
+                    <input class="form-control" type="password" id="password" placeholder="Enter Password"><br>
+                    <button id="register" class="btn btn-primary" type="submit" id="submit"
+                        value="signup">signup</button><br>
+                </div>
+            </form>
+        
+    
+        </div>
+
+    </div>
+    <div class="container">
+        <div id="results">
+
+        </div>
+    </div>
+
+    <!-- <script>
+        register.onclick = () => {
+            let url = "http://localhost:8080/bank_thor_v2/bank";
+            fetch(url, {
+                method: 'post', body: JSON.stringify({
+                    firstName: document.getElementById('fname').value,
+                    lastName: document.getElementById('lname').value,
+                    emailId: document.getElementById('emailid').value,
+                    mobileNumber: document.getElementById('mobilenumber').value,
+                    userId: document.getElementById('userid').value,
+                    password: document.getElementById('password').value
+                }),
+                headers: {
+                    'content-type': 'application/json; charset=UTF-8',
+                },
+            }).then(function (response) {
+                
+                
+                alert("Registration Successful");
+                return response.text();
+            })
+
+        }
+    </script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+</body>
+
+<script>
+    var form = document.getElementById('form')
+
+    form.addEventListener('submit', function (e) {
+        e.preventDefault()
+
+        let url = "http://localhost:8080/bank_thor_v2/bank";
+        fetch(url, {
+            method: 'post',
+            body: JSON.stringify({
+                firstName: document.getElementById('fname').value,
+                lastName: document.getElementById('lname').value,
+                emailId: document.getElementById('emailid').value,
+                mobileNumber: document.getElementById('mobilenumber').value,
+                userId: document.getElementById('userid').value,
+                password: document.getElementById('password').value
+            }),
+            headers: {
+                'content-type': 'application/json; charset=UTF-8',
+            }
+        })
+            alert("success");
+            var results = document.getElementById('results')
+        results.innerHTML = `<p>You have Succesfully Registered with details </p>
+                            <p><a href='/bank_thor_v2'>Click Here to LOGIN</a></p>`
+    })
+</script>
+</html>
