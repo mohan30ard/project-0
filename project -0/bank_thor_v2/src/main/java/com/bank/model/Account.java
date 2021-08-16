@@ -42,6 +42,14 @@ public class Account extends Customer{
 
 
 
+	public Account(long accountNumber, double openingBalance) {
+		super();
+		this.accountNumber = accountNumber;
+		this.openingBalance = openingBalance;
+	}
+
+
+
 	public void setUserId1(String userId1) {
 		this.userId1 = userId1;
 	}

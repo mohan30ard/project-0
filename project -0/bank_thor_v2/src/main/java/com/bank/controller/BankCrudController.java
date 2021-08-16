@@ -1,6 +1,8 @@
 package com.bank.controller;
 
 import java.io.IOException;
+import com.google.gson.JsonSyntaxException;
+
 import java.io.PrintWriter;
 
 import javax.servlet.RequestDispatcher;
@@ -54,25 +56,41 @@ public class BankCrudController extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		Gson gson=new Gson();
-		Customer customer=gson.fromJson(request.getReader(), Customer.class);
 		RequestDispatcher requestDispatcher1=null;
 		try {
+			Gson gson=new Gson();
+			Customer customer=gson.fromJson(request.getReader(), Customer.class);
+			
 			customer=bankCrudService.registerAccount(customer);
-			HttpSession session=request.getSession();
-				response.sendRedirect("success");
+			PrintWriter out=response.getWriter();
+			//out.print(gson.toJson(bankCrudService.getAllCustomers()));
+			if(customer!=null) {
+				System.out.println("hii");
+			//requestDispatcher1=request.getRequestDispatcher("rsuccess");
+			response.sendRedirect("registern.html");
+			//out.print("<center><span style='color:green;'>"+customer+"</span></center>");
+			}
+
+				
 			log.info(customer);
 		} catch (BankException e) {
 			System.out.println(e);
+			System.out.println("in catch 1");
 			PrintWriter out=response.getWriter();
-			requestDispatcher1=request.getRequestDispatcher("welcome.html");
+			requestDispatcher1=request.getRequestDispatcher("registern.html");
 			requestDispatcher1.include(request, response);
 			out.print("<center><span style='color:red;'>"+e.getMessage()+"</span></center>");
+		}catch(IllegalStateException | JsonSyntaxException e)
+		{
+			System.out.println("in catch");
+			//response.sendRedirect("infopage.html");
 		}
+		
+
 		
 		response.setContentType("application/json;charset=UTF-8");
 		PrintWriter out=response.getWriter();
-		out.print(gson.toJson(customer));
+		//out.print(gson.toJson(customer));
 	}
 
 	/**

@@ -5,6 +5,7 @@ import java.util.List;
 import com.bank.exception.BankException;
 import com.bank.model.Account;
 import com.bank.model.Customer;
+import com.bank.model.Employee;
 import com.bank.model.Transaction;
 
 public interface BankCrudService {
@@ -23,4 +24,8 @@ public interface BankCrudService {
 	public Transaction withdrawAmount(Transaction transaction) throws BankException;
 
 	public Transaction transferAmount(Transaction transaction) throws BankException;
+	
+	public boolean isValidEmpLoginCredentials(Employee employee) throws BankException;
+	
+	public void deleteAccount(long accountNumber) throws BankException;
 }

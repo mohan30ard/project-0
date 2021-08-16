@@ -320,5 +320,108 @@ public class BankDAOImpl implements BankDAO {
 		return b;
 	}
 
+	@Override
+	public boolean isValidEmpLoginCredentials(Employee employee) throws BankException {
+		boolean b=false;
+		try(Connection connection=PostgresConnection.getConnection()){
+			String sql="select empuserid from bank_schema.employee where empuserid=? and emppassword=?";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			preparedStatement.setString(1, employee.getEmployeeId());
+			preparedStatement.setString(2, employee.getEmployeePassword());
+			ResultSet resultSet=preparedStatement.executeQuery();
+			if(resultSet.next()) {
+				b=true;
+			}else {
+				throw new BankException("Invaid Employee Login Credentials");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);//logger
+			throw new BankException("Internal error occured.. Contact SYSADMIN!!!!!!!!!!!!!!!!!");
+		}
+		return b;
+	}
+
+	@Override
+	public List<Transaction> getAllTransactions1() throws BankException {
+		List<Transaction> statement=new ArrayList<>();
+		try(Connection connection=PostgresConnection.getConnection()){
+			String sql="select * from bank_schema.transactions ";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			ResultSet resultSet=preparedStatement.executeQuery();
+			
+			while(resultSet.next()) {
+				Transaction transaction=new Transaction();
+				transaction.setTransId(resultSet.getInt("transid"));
+				transaction.setTransType(resultSet.getString("transtype"));
+				transaction.setAccountNumber(resultSet.getLong("accountNumber"));
+				transaction.setAmount(resultSet.getDouble("tamount"));
+				transaction.setOpeningBalance1(resultSet.getDouble("balance"));
+				transaction.setClosingBalance(resultSet.getDouble("updatedbalance"));
+				transaction.setDate(resultSet.getString("date"));
+				statement.add(transaction);
+			}
+			if(statement.size()==0) {
+				throw new BankException("No records exists ");
+			}
+		}catch (ClassNotFoundException | SQLException e) {
+			log.error(e);//logger
+			throw new BankException("Internal error occured... Kindly conatct SYSADMIN........");
+	}
+		return statement;
+	}
+
+	@Override
+	public List<Account> getAllAccountsByUserId(String userId) throws BankException {
+		List<Account> listAccount=new ArrayList<>();
+		try(Connection connection=PostgresConnection.getConnection()){
+			String sql="select * from bank_schema.accountdetails where userid=?";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			preparedStatement.setString(1, userId);
+			ResultSet resultSet=preparedStatement.executeQuery();
+			
+			while(resultSet.next()) {
+				Account account=new Account();
+				account.setAccountNumber(resultSet.getLong("accountnumber"));
+				account.setPanCard(resultSet.getString("pancard"));
+				account.setOpeningBalance(resultSet.getDouble("balance"));
+				account.setName(resultSet.getString("name"));
+				account.setUserId1(resultSet.getString("userid"));
+				listAccount.add(account);
+			}
+			if(listAccount.size()==0) {
+				throw new BankException("No accounts Found in DataBase");
+			}
+		}catch (ClassNotFoundException | SQLException e) {
+			log.error(e);//logger
+			throw new BankException("Internal error occured... Kindly conatct SYSADMIN........");
+		}
+		return listAccount;
+	}
+
+	@Override
+	public void deleteAccount(long accountNumber) throws BankException {
+		try(Connection connection=PostgresConnection.getConnection()){
+			String sql="delete from bank_schema.transactions where accountnumber=?";
+			String sql1="delete from bank_schema.accountdetails where accountnumber=?";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			PreparedStatement preparedStatement1=connection.prepareStatement(sql1);
+			preparedStatement.setLong(1, accountNumber);
+			preparedStatement1.setLong(1, accountNumber);
+			
+			int c=preparedStatement.executeUpdate();
+			int c1=preparedStatement1.executeUpdate();
+			if(c==1 && c1==1)
+			{
+				System.out.println("Account deleted Successfully");
+			}else {
+				throw new BankException("No Account Found");
+			}	
+		}catch (ClassNotFoundException | SQLException e) {
+			log.error(e);//logger
+			throw new BankException("Internal error occured... Kindly conatct SYSADMIN........");
+		}
+		
+	}
+
 
 }

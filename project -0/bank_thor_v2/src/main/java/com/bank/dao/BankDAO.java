@@ -33,5 +33,13 @@ public interface BankDAO {
 	public List<Transaction> getAllTransactions(long accountNumber) throws BankException;
 	
 	public boolean isValidLoginCredentials(Customer customer) throws BankException;
+	
+	public boolean isValidEmpLoginCredentials(Employee employee) throws BankException;
+	
+	public List<Transaction> getAllTransactions1() throws BankException;
+	
+	public List<Account> getAllAccountsByUserId(String UserId) throws BankException;
+	
+	public void deleteAccount(long accountNumber) throws BankException;
 
 }

@@ -36,16 +36,14 @@ public class CustomerLoginController extends HttpServlet {
 		response.setContentType("text/html");
 		Customer customer=new Customer();
 		customer.setUserId(request.getParameter("userid"));
-		customer.setPassword(request.getParameter("password"));
-		
-		
+		customer.setPassword(request.getParameter("password"));	
 		RequestDispatcher requestDispatcher=null;
 		try {
 			if(bankCrudService.isValidLoginCredentials(customer)) {
 				//success
 				HttpSession session=request.getSession();
-				session.setAttribute("userid", customer.getUserId());
-				response.sendRedirect("success");
+				session.setAttribute("userId", customer.getUserId());
+				response.sendRedirect("index.html");
 				//requestDispatcher=request.getRequestDispatcher("success");
 				//requestDispatcher.forward(request, response);
 			}

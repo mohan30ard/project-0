@@ -36,7 +36,9 @@ public class SuccessController extends HttpServlet {
 			out.print("<center><h1>Please Login First</h1></center>");
 			out.print("<h4><a href='/bank_thor_v2'>Click here to Login </a> ");
 		}else {
-		out.print("<h1>Welcome "+session.getAttribute("userid")+" ..... You have logged in successfully at "+new Date(session.getCreationTime())+"</h1>");
+		out.print("<h1>Welcome "+session.getAttribute("userId")+" ..... You have logged in successfully at "+new Date(session.getCreationTime())+"</h1>");
+		out.print("<a href='create'>click here to create a new account</a> ");
+		
 		
 		out.print("<a href='logout'>Click Here to LOGOUT</a>");
 	}

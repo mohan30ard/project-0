@@ -11,6 +11,7 @@ import com.bank.exception.BankException;
 import com.bank.main.Bank_Thor_Main;
 import com.bank.model.Account;
 import com.bank.model.Customer;
+import com.bank.model.Employee;
 import com.bank.model.Transaction;
 import com.bank.service.BankCrudService;
 
@@ -31,7 +32,7 @@ public class BankCrudServiceImpl implements BankCrudService {
 
 	@Override
 	public Account createAccount(Account account) throws BankException {
-
+		//account = bankDAO.createAccount(account);
 		if (account != null) {
 			account = bankDAO.createAccount(account);
 		} else {
@@ -105,5 +106,25 @@ public class BankCrudServiceImpl implements BankCrudService {
 		}
 
 		return b;
+	}
+
+	@Override
+	public boolean isValidEmpLoginCredentials(Employee employee) throws BankException {
+		boolean b = false;
+		if (employee != null) {
+
+			// code here for DAO
+			b = bankDAO.isValidEmpLoginCredentials(employee);
+		} else {
+			throw new BankException("Invalid Employee username or Password");
+		}
+
+		return b;
+	}
+
+	@Override
+	public void deleteAccount(long accountNumber) throws BankException {
+		// TODO Auto-generated method stub
+		
 	}
 }
